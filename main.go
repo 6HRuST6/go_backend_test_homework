@@ -10,6 +10,6 @@ func Add(a, b int) int {
 
 func main() {
 	fmt.Println("Я домашка")
-	fmt.Println("test123")
+	fmt.Println("test")
 }
 // 123
